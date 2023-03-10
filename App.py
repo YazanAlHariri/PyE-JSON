@@ -7,7 +7,8 @@ class App(CTk):
 
 
 def main():
-	pass
+	app = App()
+	app.mainloop()
 
 
 if __name__ == "__main__":
